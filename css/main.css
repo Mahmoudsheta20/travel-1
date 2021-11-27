@@ -206,13 +206,13 @@ body {
 }
 
 .home .container {
-    background: linear-gradient(rgb(17, 17, 17, .7), rgb(17, 17, 17, .7)), url(image/home-bg.jpg) no-repeat;
+    background: linear-gradient(rgb(17, 17, 17, .7), rgb(17, 17, 17, .7)), url(../image/home-bg.jpg) no-repeat;
     background-size: cover;
     min-height: 80vh;
-    border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 20px;
 }
 
 .home .contant {
